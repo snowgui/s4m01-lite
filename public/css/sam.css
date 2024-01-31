@@ -1,0 +1,32 @@
+._i{font-size: 1.4em !important;}
+
+.menu_sub {
+    color:#1ab394 !important;
+    text-shadow: 0 0 1px #1ab394;
+    filter: brightness(125%);
+}
+
+.subitens:hover{
+    color:#1ab394 !important;
+    filter: brightness(125%);
+}
+
+/* .swal2-confirm{
+    background-color: #1ab394 !important; border-left-color: #1ab394 !important; border-right-color: #1ab394 !important;
+} */
+/* .swal2-styled{
+   background-color: #1ab394 !important; border-left-color: #1ab394 !important; border-right-color: #1ab394 !important;
+}   */
+
+
+.blinking{
+    animation:blinkingText 1.2s infinite;
+}
+
+@keyframes blinkingText{
+    0%{     color: #000;    }
+    49%{    color: #000; }
+    60%{    color: transparent; }
+    99%{    color:transparent;  }
+    100%{   color: #000;    }
+}
