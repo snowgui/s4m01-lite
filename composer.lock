@@ -2823,7 +2823,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">8.1.6"
             },
             "type": "library",
             "extra": {
@@ -3516,7 +3516,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">8.1.6"
             },
             "provide": {
                 "ext-ctype": "*"
@@ -3598,7 +3598,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">8.1.6"
             },
             "provide": {
                 "ext-iconv": "*"
@@ -3681,7 +3681,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1",
+                "php": ">8.1.6",
                 "symfony/polyfill-intl-normalizer": "^1.10",
                 "symfony/polyfill-php72": "^1.10"
             },
@@ -3768,7 +3768,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">8.1.6"
             },
             "suggest": {
                 "ext-intl": "For best performance"
@@ -3852,7 +3852,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">8.1.6"
             },
             "provide": {
                 "ext-mbstring": "*"
@@ -3935,7 +3935,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">8.1.6"
             },
             "type": "library",
             "extra": {
@@ -4011,7 +4011,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">8.1.6"
             },
             "type": "library",
             "extra": {
@@ -4090,7 +4090,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">8.1.6"
             },
             "type": "library",
             "extra": {
@@ -5714,7 +5714,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">8.1.6"
             },
             "require-dev": {
                 "phpunit/phpunit": "^8.5"
@@ -5819,7 +5819,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">8.1.6"
             },
             "require-dev": {
                 "phpunit/phpunit": "^8.5"
@@ -5879,7 +5879,7 @@
             },
             "require": {
                 "ext-tokenizer": "*",
-                "php": ">=7.1"
+                "php": ">8.1.6"
             },
             "require-dev": {
                 "phpunit/phpunit": "^7.0"
@@ -6081,7 +6081,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1",
+                "php": ">8.1.6",
                 "sebastian/diff": "^3.0",
                 "sebastian/exporter": "^3.1"
             },
@@ -6155,7 +6155,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">8.1.6"
             },
             "require-dev": {
                 "phpunit/phpunit": "^7.5 || ^8.0",
@@ -6218,10 +6218,10 @@
                 "type": "zip",
                 "url": "https://api.github.com/repos/sebastianbergmann/environment/zipball/d47bbbad83711771f167c72d4e3f25f7fcc1f8b0",
                 "reference": "d47bbbad83711771f167c72d4e3f25f7fcc1f8b0",
-                "shasum": ""
+                "shasum": ""    
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">8.1.6"
             },
             "require-dev": {
                 "phpunit/phpunit": "^7.5"
@@ -6591,7 +6591,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": ">=7.1"
+                "php": ">8.1.6"
             },
             "type": "library",
             "extra": {
